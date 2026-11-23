@@ -225,5 +225,3 @@ Released under the [MIT License](LICENSE). The PeMS data are subject to Caltrans
 ## Contact
 
 For questions about the code or the paper, please open an issue or contact the authors (details will be added after peer review).
-
-> （注：部分内容由豆包 AI 生成）
